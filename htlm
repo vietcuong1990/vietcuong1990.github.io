@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tiếng Trung Công Xưởng</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      padding: 20px;
+      background-color: #f5f5f5;
+      color: #333;
+    }
+    h1 {
+      color: #111;
+    }
+    h2 {
+      color: #00539C;
+    }
+    ul {
+      list-style-type: disc;
+      margin-left: 20px;
+    }
+    .dialogue {
+      margin-top: 20px;
+    }
+    .dialogue p {
+      margin: 6px 0;
+    }
+    .pinyin {
+      font-style: italic;
+      color: #888;
+    }
+    .translation {
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+  <h1>🏭 Tiếng Trung Công Xưởng</h1>
+
+  <h2>📘 Từ vựng cơ bản</h2>
+  <ul>
+    <li>工厂 (<span class="pinyin">gōngchǎng</span>) – nhà máy</li>
+    <li>员工 (<span class="pinyin">yuángōng</span>) – nhân viên</li>
+    <li>机器 (<span class="pinyin">jīqì</span>) – máy móc</li>
+    <li>检查 (<span class="pinyin">jiǎnchá</span>) – kiểm tra</li>
+    <li>操作 (<span class="pinyin">cāozuò</span>) – thao tác</li>
+  </ul>
+
+  <h2>🗣️ Mẫu hội thoại</h2>
+  <div class="dialogue">
+    <p><strong>A:</strong> 你会操作这台机器吗？<br>
+    <span class="pinyin">Nǐ huì cāozuò zhè tái jīqì ma?</span><br>
+    <span class="translation">→ Bạn có biết vận hành máy này không?</span></p>
+
+    <p><strong>B:</strong> 我会，我已经学过了。<br>
+    <span class="pinyin">Wǒ huì, wǒ yǐjīng xuéguò le.</span><br>
+    <span class="translation">→ Tôi biết, tôi đã học rồi.</span></p>
+
+    <p><strong>A:</strong> 今天你检查产品了吗？<br>
+    <span class="pinyin">Jīntiān nǐ jiǎnchá chǎnpǐn le ma?</span><br>
+    <span class="translation">→ Hôm nay bạn đã kiểm tra sản phẩm chưa?</span></p>
+
+    <p><strong>B:</strong> 检查了，没有问题。<br>
+    <span class="pinyin">Jiǎnchá le, méiyǒu wèntí.</span><br>
+    <span class="translation">→ Kiểm tra rồi, không có vấn đề gì.</span></p>
+  </div>
+</body>
+</html>
